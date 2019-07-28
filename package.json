@@ -1,0 +1,28 @@
+{
+  "name": "shareviewchatapp",
+  "version": "1.0.0",
+  "description": "This is user chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamirSiddiqui2504/shareViewChatApp.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "App"
+  ],
+  "author": "Aamir Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamirSiddiqui2504/shareViewChatApp/issues"
+  },
+  "homepage": "https://github.com/aamirSiddiqui2504/shareViewChatApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
+  }
+}
